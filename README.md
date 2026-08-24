@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafi Nurul Fauzan</h1>
 <h3 align="center">Informatics Engineering Student | Software Development • Cybersecurity • Data</h3>
- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafraf3015-source&label=Profile%20views&color=0e75b6&style=flat" alt="rafraf3015-source" />
-</p>
 ---
  
 ### 🚀 About Me
