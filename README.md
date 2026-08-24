@@ -29,7 +29,7 @@ Current Focus: Strengthening algorithms, data structures, and secure coding prac
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,linux" />
 </p>
 
 ---
