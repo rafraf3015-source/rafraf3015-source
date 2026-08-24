@@ -23,23 +23,7 @@
 </p>
 ---
  
-### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafraf3015-source&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafraf3015-source&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rafraf3015-source&theme=radical" alt="GitHub Streak" />
-</p>
----
- 
-### 🏆 GitHub Trophies
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafraf3015-source&theme=radical&no-frame=true&row=1&column=6" />
-</p>
----
+
  
 ### 🌐 Connect With Me
  
