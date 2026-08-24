@@ -9,11 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Software+Development+Enthusiast;Cybersecurity+Explorer;Data+Science+Learner;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafraf3015-source&label=Profile%20views&color=0e75b6&style=flat" alt="rafraf3015-source" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat" />
-</p>
-
 ---
 
 ### 🚀 About Me
