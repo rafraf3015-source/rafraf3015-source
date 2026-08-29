@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rafi%20Nurul%20Fauzan&descAlignY=55&descSize=18" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/rafi-nurul-fauzan-154815423/" target="_blank">Rafi Nurul Fauzan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
+<h1 align="center">Hi , I'm <a href="https://www.linkedin.com/in/rafi-nurul-fauzan-154815423/" target="_blank">Rafi Nurul Fauzan</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
 <h3 align="center">Informatics Engineering Student | Software Development • Cybersecurity • Data</h3>
 
 <p align="center">
